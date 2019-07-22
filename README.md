@@ -1,2 +1,5 @@
 # Bioinformatics-Network-Biology-part-1
 Starting from existing knowledge about a physiological/clinical/pathological condition or process, a) explore the related information sources (experiments and datasets, literature, databases, etc), b) collect the list of human genes of interest (‘seed gene list’), c) get proteinprotein interaction data, d) carry on a preliminary analysis
+
+# Our Case Study : The Chagas Disease
+The Chagas disease is a parasitic disease caused by the protist Trypanosomacruzi. Mainly found in South America, It is spread mostly by insects known as Triatominae, or "kissing bugs". In this project, we will be carring out data analysis of the human genes involved in the disease. The relevant set of genes was provided by the instructor after exploring (experiments and datasets, literature etc). We then proceeded in carrying out the various protein to protein interactions related to the seed genes for the Chaga disease. Finally, gene oncology was run in order to better understand the biological processes, molecular function and cellular of all the genes directly or indirectly related to the Chagas disease in humans
