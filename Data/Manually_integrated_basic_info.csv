@@ -1,0 +1,22 @@
+,Input gene name,official gene symbol,HGNC Approved gene symbol,Uniprot AC,protein name,Entrez Gene ID,Function,Status
+0,BAT1,SLC7A9,SLC7A9,P82251,b-type amino acid transporter 1   ,11136,"Involved in the high-affinity, sodium-independent transport of cystine and neutral and dibasic amino acids .",reviewed
+0,CCL2,CCL2,CCL2,P13500,C-C motif chemokine 2        ,6347,Chemotactic factor that attracts monocytes and basophils but not neutrophils or eosinophils.,reviewed
+0,CCR5,CCR5,CCR5,P51681,C-C chemokine receptor type 5       ,1234,"Receptor for a number of inflammatory CC-chemokines including CCL3/MIP-1-alpha, CCL4/MIP-1-beta and RANTES and subsequently transduces a signal by increasing the intracellular calcium ion level.",reviewed
+0,CxCL10,CXCL10,CXCL10,P02778,C-X-C motif chemokine 10     ,3627,Chemotactic for monocytes and T-lymphocytes.,reviewed
+0,CXCL9,CXCL9,CXCL9,Q07325,C-X-C motif chemokine 9     ,4283,"Cytokine that affects the growth, movement, or activation state of cells that participate in immune and inflammatory response.",reviewed
+0,HLA-DPB1,HLA-DPB1,HLA-DPB1,P04440,"HLA class II histocompatibility antigen, DP beta 1 chain  ",3115,Binds peptides derived from antigens that access the endocytic route of antigen presenting cells  and presents them on the cell surface for recognition by the CD4 T-cells.,reviewed
+0,HLA-DQB1,HLA-DQB1,HLA-DQB1,P01920,"HLA class II histocompatibility antigen, DQ beta 1 chain ",3119,Binds peptides derived from antigens that access the endocytic route of antigen presenting cells  and presents them on the cell surface for recognition by the CD4 T-cells.,reviewed
+0,HLA-DRB1,HLA-DRB1,HLA-DRB1,Q29974,"HLA class II histocompatibility antigen, DRB1-16 beta chain   ",3123,Binds peptides derived from antigens that access the endocytic route of antigen presenting cells  and presents them on the cell surface for recognition by the CD4 T-cells.,reviewed
+0,IFNG,IFNG,IFNG,P01579,Interferon gamma  ,3458,Produced by lymphocytes activated by specific antigens or mitogens.,reviewed
+0,IL10,IL10RA,IL10RA,Q13651,Interleukin-10 receptor subunit alpha        ,3587,Receptor for IL10; binds IL10 with a high affinity.,reviewed
+0,IL12B,IL12B,IL12B,P29460,Interleukin-12 subunit beta      ,3593,"Cytokine that can act as a growth factor for activated T and NK cells, enhance the lytic activity of NK/lymphokine-activated killer cells, and stimulate the production of IFN-gamma by resting PBMC.",reviewed
+0,IL1B,IL1B,IL1B,P01584,Interleukin-1 beta  ,3553,Potent proinflammatory cytokine.,reviewed
+0,IL1RN,IL1RN,IL1RN,P18510,Interleukin-1 receptor antagonist protein      ,3557,Inhibits the activity of interleukin-1 by binding to receptor IL1R1 and preventing its association with the coreceptor IL1RAP for signaling.,reviewed
+0,IL4,IL4R,IL4R,P24394,Interleukin-4 receptor subunit alpha      ,3566,Receptor for both interleukin 4 and interleukin 13.,reviewed
+0,IL4R,IL4R,IL4R,P24394,Interleukin-4 receptor subunit alpha      ,3566,Receptor for both interleukin 4 and interleukin 13.,reviewed
+0,IL6,IL6,IL6,P05231,Interleukin-6        ,3569,Cytokine with a wide variety of biological functions.,reviewed
+0,LTA,LTA4H,LTA4H,P09960,Leukotriene A-4 hydrolase   ,4048,Epoxide hydrolase that catalyzes the final step in the biosynthesis of the proinflammatory mediator leukotriene B4.,reviewed
+0,TGFB,TGFB1,TGFB1,P01137,Transforming growth factor beta-1 proprotein ,7040,"Transforming growth factor beta-1 proprotein: Precursor of the Latency-associated peptide  and Transforming growth factor beta-1  chains, which constitute the regulatory and active subunit of TGF-beta-1, respectively.",reviewed
+0,TNF,TNF,TNF,P01375,Tumor necrosis factor     ,7124,Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR.,reviewed
+0,TNFA,TNF,TNF,P01375,Tumor necrosis factor     ,7124,Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR.,reviewed
+0,TNFB,LTA,LTA,P01374,Lymphotoxin-alpha   ,4049,"Cytokine that in its homotrimeric form binds to TNFRSF1A/TNFR1, TNFRSF1B/TNFBR and TNFRSF14/HVEM.",reviewed
